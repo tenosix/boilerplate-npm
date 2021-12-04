@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "tenosix",
+	"author": "tasha delaboud",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
